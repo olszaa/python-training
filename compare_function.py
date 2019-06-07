@@ -24,7 +24,9 @@ num1 = int(input("Enter num1 :"))
 num2 = int(input("Enter num2 :"))
 num3 = int(input("Enter num3 :"))
 
+#call function and print in line
 #print("{0} as the greatest number \n{1} as the less number".format(compare(num1,num2,num3)[0],compare(num1,num2,num3)[1]))
+
 
 mylist = compare(num1,num2,num3)
 print("{0} as the greatest number \n{1} as the less number".format(mylist[0],mylist[1]))
