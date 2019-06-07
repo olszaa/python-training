@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-print("Welcome Siwadon Chanaboon")
+print("Myname is Siwadon Chanaboon")
 
 def compare(_num1, _num2, _num3):
     _max = ""
